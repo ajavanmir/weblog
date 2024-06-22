@@ -1,0 +1,12 @@
+<!--
+Copyright amir javanmir
+Released on: June 22, 2024
+-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-red">
+    <a class="navbar-brand" href="<?=url("/");?>">PHP tutorial panel</a>
+    <section class="collapse navbar-collapse" id="navbarSupportedContent"></section>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="text-decoration-none text-white" href="">logout</a>
+</nav>
